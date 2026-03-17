@@ -109,4 +109,4 @@ Learned how to review another developer’s pull request and verify functionalit
 ## Notes
 
 All work was tested locally before submission.
-Pull requests are linked to their respective issues and follow the practicum workflow.
+Pull requests are linked to their respective issues.
